@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Hargray Remote Wizard</string>
+    <string name="short_app_name">Remote Wizard</string>
+    <string name="tv_selection">Select your television brand:</string>
+    <string name="no_remote"><b>Don\'t see your remote here?</b>\n\nTry calling Hargray Repair for help with older remotes. Otherwise, you can exchange the remote at the Hargray retail store for the newest remote we have to offer.</string>
+    <string name="easy_instructions">Press and hold the \"TV\" and the \"OK\" buttons for three seconds and then release. Continue to the next step if the \"TV\" light is solid red.</string>
+    <string name="dta_instructions">Press and hold the \"TV\" and the \"PROG\" buttons for three seconds and then release. Continue to the next step if the light on the remote is solid red.</string>
+    <string name="about_app">This app was created with the purpose of helping customers have an easy to follow set of instructions to program their remotes.</string>
+    <string name="easy_code">Enter the codes below one at a time while pointing at your tv. If one of the codes turns your tv off then press the \"TV\" button to lock it in! Press the power button again and your tv should turn back on.</string>
+    <string name="dta_code">Enter the code below. When the red light goes off, try the \"TV\" button and see if the television turns off. If so, then you\'re good to go! If not, put the remote in program mode again and try the next code.</string>
+    <string name="turn_on">"Please turn your TV on before proceeding"</string>
+    <string name="start">Start</string>
+</resources>

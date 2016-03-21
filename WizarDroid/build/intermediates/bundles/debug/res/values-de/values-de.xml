@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Desktop/Hargray%20Remote%20Wizard/WizarDroid/src/main/res/values-de/strings.xml -->
+    <eat-comment/>
+    <string name="action_finish">Fertig</string>
+    <string name="action_next">Weiter</string>
+    <string name="action_previous">Zurück</string>
+</resources>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/D:/Desktop/Hargray%20Remote%20Wizard/WizarDroid/src/main/res/values/id.xml -->
+    <eat-comment/>
+    <item name="step_container" type="id"/>
+    <item name="wizard_next_button" type="id"/>
+    <item name="wizard_previous_button" type="id"/>
+    <!-- From: file:/D:/Desktop/Hargray%20Remote%20Wizard/WizarDroid/src/main/res/values/strings.xml -->
+    <eat-comment/>
+    <string name="action_finish">Finish</string>
+    <string name="action_next">Next</string>
+    <string name="action_previous">Back</string>
+</resources>

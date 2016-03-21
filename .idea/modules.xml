@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Hargray Remote Wizard.iml" filepath="$PROJECT_DIR$/Hargray Remote Wizard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RemoteWizard/RemoteWizard.iml" filepath="$PROJECT_DIR$/RemoteWizard/RemoteWizard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/WizarDroid/WizarDroid.iml" filepath="$PROJECT_DIR$/WizarDroid/WizarDroid.iml" />
+    </modules>
+  </component>
+</project>

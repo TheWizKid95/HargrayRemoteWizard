@@ -1,0 +1,21 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '22.0.1'
+    defaultConfig {
+        applicationId "com.twk95.remotewizard"
+        minSdkVersion 15
+        targetSdkVersion 22
+        versionName "e201"
+        versionCode 1
+    }
+    productFlavors {
+    }
+}
+
+dependencies {
+    compile project(':WizarDroid')
+    compile 'com.nineoldandroids:library:2.4.0'
+    compile 'com.android.support:appcompat-v7:22.2.1'
+}
